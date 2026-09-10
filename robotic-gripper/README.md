@@ -1,5 +1,7 @@
 # Robotic Gripper — SolidWorks Design & 3D-Printed Prototype
 
+![Robotic Gripper SolidWorks Design](first%20photo%20of%20robot%20gripper.png)
+
 **Status: In Progress**
 
 ## Project Overview
