@@ -1,12 +1,16 @@
 # Lamp Project — Adjustable SolidWorks Assembly
 
+![Adjustable Lamp SolidWorks Render](Lamp_Final_Render.PNG)
+
 ## Project Overview
 
 I designed this adjustable lamp in SolidWorks as a multi-part mechanical assembly. The project includes the individual lamp components, articulated arm sections, pivot joints, the base/clamp, lamp head, assembly configurations, and engineering drawings.
 
 The goal of the project was to create the parts individually, assemble them with the correct relationships, and make the lamp move as an adjustable assembly rather than only creating a static model.
 
-🎥 **[Watch the Lamp Assembly Video on YouTube](https://www.youtube.com/watch?v=V_siRCXMmso&t=526s)**
+🎥 **[Watch the Lamp Project Video on YouTube](https://www.youtube.com/watch?v=V_siRCXMmso&t=526s)**
+
+🎥 **[Watch the Cinematic Motion Demonstration](https://www.youtube.com/watch?v=WbKL276J6CM)**
 
 ## CAD Design
 
@@ -28,15 +32,23 @@ The project gave me practice working with:
 
 One of the main parts of this project was making sure the lamp assembly could move. I used the assembly relationships to allow the arm sections and lamp head to change position around their joints while keeping the components connected correctly.
 
-I also created motion documentation showing the adjustable assembly moving through different positions.
+I also created a cinematic motion demonstration showing the adjustable lamp moving through different positions.
+
+🎥 **[Cinematic Lamp Motion Video](https://www.youtube.com/watch?v=WbKL276J6CM)**
 
 ## Engineering Drawings
 
 In addition to the 3D models and assemblies, I created SolidWorks engineering drawings for the project. This allowed me to practice presenting the design in a technical drawing format in addition to the 3D CAD environment.
 
+**[View SolidWorks Drawings](drawings/)**
+
 ## CAD Files
 
-The project was saved using SolidWorks Pack and Go so the assemblies, parts, configurations, and referenced files can be kept together. The project files will be organized in this folder along with the drawings and supporting documentation.
+The SolidWorks project files are organized by file type so the individual components, assemblies, and drawings are easy to review.
+
+- **[Individual SolidWorks Parts](parts/)** — Individual `.SLDPRT` component models
+- **[SolidWorks Assemblies](assemblies/)** — Lamp assemblies and configurations
+- **[Engineering Drawings](drawings/)** — SolidWorks `.SLDDRW` drawing files
 
 ## 3D Printing & Physical Prototype
 
@@ -62,7 +74,7 @@ This will let me compare the SolidWorks design with the actual manufactured part
 - [x] Lamp assembly created
 - [x] Adjustable assembly motion established
 - [x] Engineering drawings created
-- [x] Project video recorded
+- [x] Project videos recorded
 - [ ] Components 3D printed
 - [ ] Physical assembly completed
 - [ ] Fit and motion tested
