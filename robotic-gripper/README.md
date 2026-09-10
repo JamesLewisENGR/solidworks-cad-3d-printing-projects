@@ -12,6 +12,8 @@ I used several YouTube videos and existing gripper designs as references for the
 
 The overall CAD design is complete, and I am currently moving into the 3D-printing and physical testing stage.
 
+🎥 **[Watch the Robotic Gripper Build Overview on YouTube](https://www.youtube.com/watch?v=37y65f_CWxo)**
+
 ## CAD Design
 
 I modeled the gripper components in SolidWorks and assembled them to create the overall mechanism. While working on the CAD design, I had to think about how the individual parts connect, how the mechanism moves, and how the dimensions of the components will affect the physical assembly.
@@ -65,6 +67,7 @@ As I continue the project, I plan to:
 - [x] Overall CAD design completed
 - [x] SolidWorks assembly created
 - [x] SolidWorks CAD files uploaded
+- [x] CAD/build overview video recorded
 - [ ] Components 3D printed
 - [ ] Physical gripper assembled
 - [ ] Fit and movement tested
