@@ -31,6 +31,16 @@ The CAD and drawing stage is complete, and the next step is 3D printing the comp
 
 **[View the Full Lamp Project](lamp-project/README.md)**
 
+### SolidWorks to 3D Print — Tolerance & Fit Testing
+
+I created a simple tolerance test in SolidWorks to see how small differences in CAD clearance translate to the fit of actual 3D-printed parts. After printing the test pieces, I physically compared the fits and used the results to better understand how much clearance I need when designing mating components.
+
+In this test, a **0.05 mm clearance produced a very tight fit**, while **0.10 mm was snug but still movable**. The results gave me a practical reference for future parts while also showing why physical testing matters when moving from CAD to additive manufacturing.
+
+🎥 **[Watch the Tolerance & Fit Test on YouTube](https://www.youtube.com/shorts/eJ8chKEDIlw)**
+
+**[View the Full Tolerance & Fit Testing Project](tolerance-fit-testing/README.md)**
+
 ### CSWA Practice Models
 
 A selection of the stronger practice models I have completed while preparing for the Certified SOLIDWORKS Associate (CSWA) exam. I am using these exercises to improve my speed, accuracy, design intent, and familiarity with common SolidWorks modeling tools.
