@@ -62,6 +62,7 @@ As I continue the project, I plan to:
 - [x] Initial concept researched
 - [x] Overall CAD design completed
 - [x] SolidWorks assembly created
+- [x] SolidWorks CAD files uploaded
 - [ ] Components 3D printed
 - [ ] Physical gripper assembled
 - [ ] Fit and movement tested
@@ -69,9 +70,26 @@ As I continue the project, I plan to:
 - [ ] Additional features added
 - [ ] Final prototype completed
 
-## Project Files
+## SolidWorks CAD Files
 
-SolidWorks CAD files, images, and project documentation will be added here as I organize and continue the project.
+The current SolidWorks assembly and individual component files are included below. These are the CAD files for the initial gripper design before physical 3D-print testing and future revisions.
+
+### Assembly
+
+- **[Robotic Gripper Assembly](ASSEM%20of%20Robot%20Gripper.SLDASM)** — Complete `.SLDASM` assembly
+
+### Parts
+
+- **[Arm Linkage](Arm%20Linkage.SLDPRT)**
+- **[Base](Base.SLDPRT)**
+- **[Claw](Claw.SLDPRT)**
+- **[Far Side Linkage](Far%20Side%20Linkage.SLDPRT)**
+- **[Last Linkage](Last%20Linkage.SLDPRT)**
+- **[Main Frame](Main%20Frame.SLDPRT)**
+- **[Middle Linkage](Middle%20Linkage.SLDPRT)**
+- **[Pole](Pole.SLDPRT)**
+
+As I print and test the gripper, I plan to revise these components where necessary and document the changes between the CAD design and the physical prototype.
 
 ## Project Takeaway
 
