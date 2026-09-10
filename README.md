@@ -31,11 +31,21 @@ The CAD and drawing stage is complete, and the next step is 3D printing the comp
 
 **[View the Full Lamp Project](lamp-project/README.md)**
 
+### Robotic Gripper — SolidWorks Design & 3D-Printed Prototype
+
+I modeled a multi-part robotic gripper in SolidWorks using existing gripper designs and videos as references for the initial mechanism. The CAD assembly is complete, and I am moving into the physical prototyping stage.
+
+My next step is to 3D print the components, test the fit and movement, revise dimensions where needed, and continue adding to the design based on what I learn from the physical prototype.
+
+🎥 **[Watch the Robotic Gripper Build Overview](https://www.youtube.com/watch?v=37y65f_CWxo)**
+
+**[View the Full Robotic Gripper Project](robotic-gripper/README.md)**
+
 ### SolidWorks to 3D Print — Tolerance & Fit Testing
 
-I created a simple tolerance test in SolidWorks to see how small differences in CAD clearance translate to the fit of actual 3D-printed parts. After printing the test pieces, I physically compared the fits and used the results to better understand how much clearance I need when designing mating components.
+I created a simple tolerance test in SolidWorks to see how small differences in CAD clearance translate to the fit of actual 3D-printed parts. After printing the test pieces, I physically compared the fits and used the results to refine the clearance.
 
-In this test, a **0.05 mm clearance produced a very tight fit**, while **0.10 mm was snug but still movable**. The results gave me a practical reference for future parts while also showing why physical testing matters when moving from CAD to additive manufacturing.
+A **0.05 mm clearance was very tight**, while **0.10 mm had more movement than I wanted**. After testing intermediate values, I found that **0.07 mm produced the snug, movable fit I was looking for** under the conditions of this test.
 
 🎥 **[Watch the Tolerance & Fit Test on YouTube](https://www.youtube.com/shorts/eJ8chKEDIlw)**
 
