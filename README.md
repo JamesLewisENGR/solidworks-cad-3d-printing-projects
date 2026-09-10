@@ -21,9 +21,15 @@ For many of these projects, I take the design beyond the CAD model by exporting 
 
 ## Projects
 
-### Lamp Project
+### Adjustable Lamp — SolidWorks Assembly & 3D Printing
 
-SolidWorks modeling and 3D-printing project. Full documentation, CAD images, and photos of the printed parts will be added as the project is documented.
+I designed a multi-part adjustable lamp in SolidWorks with articulated arm sections, pivot joints, a base/clamp, and a separate lamp-head assembly. I created the individual parts, assembled and mated the components, established the adjustable motion, and created engineering drawings for the project.
+
+The CAD and drawing stage is complete, and the next step is 3D printing the components and testing the physical assembly. I will document fit, movement, tolerances, and any design changes that come from the physical prototype.
+
+🎥 **[Watch the Lamp Assembly Video on YouTube](https://www.youtube.com/watch?v=V_siRCXMmso&t=526s)**
+
+**[View the Full Lamp Project](lamp-project/README.md)**
 
 ### CSWA Practice Models
 
