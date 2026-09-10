@@ -15,25 +15,32 @@ I modeled test geometry in SolidWorks using different clearances between the mat
 My process was:
 
 1. Model the test parts in SolidWorks.
-2. Change the clearance between the mating features.
+2. Test different clearances between the mating features.
 3. Export and 3D print the test pieces.
 4. Physically test how the parts fit together.
-5. Compare the different results and use them to better understand real-world printed tolerances.
+5. Compare the results and adjust the clearance based on what I observed.
+6. Print and test the revised design again.
 
-## Results
+## Results & Iteration
 
-One of the main things I saw was how much of a difference a very small change in clearance could make in the finished print.
+I first tested **0.05 mm and 0.10 mm clearances** to see how the difference translated from SolidWorks to the physical 3D-printed parts.
 
 - **0.05 mm clearance:** very tight fit
-- **0.10 mm clearance:** snug but still movable
+- **0.10 mm clearance:** more movement than I wanted
 
-These results were specific to the parts, printer, material, and print settings I used for this test, but they gave me a useful reference for designing future 3D-printed parts that need to fit or move together.
+Instead of stopping with those two results, I chose a value between them and tested again. I found that a **0.07 mm clearance produced the fit I was looking for — snug, but still able to move without being excessively tight.**
+
+This was useful because it showed me how even a few hundredths of a millimeter in the CAD model could noticeably change the fit of the printed parts. The progression from **0.05 mm → 0.10 mm → 0.07 mm** also gave me experience using physical test results to refine a CAD design instead of assuming the first dimensions would work.
+
+These results are specific to the parts, printer, material, and print settings I used for this test, but the process gave me a practical reference for similar parts printed under the same conditions.
 
 ## What I Learned
 
 This project helped me understand that the exact dimensions in a CAD model do not automatically produce the same type of fit in a physical 3D-printed part. Printer accuracy, material behavior, layer deposition, and other manufacturing variables can affect the final dimensions.
 
-Instead of assuming a clearance would work, I was able to design a test, print it, physically check the result, and use what I learned when making future parts in SolidWorks.
+More importantly, I learned to use an iterative approach. I started with two clearance values, compared the physical results, selected an intermediate value based on what I observed, and tested again. The **0.07 mm** result gave me the snug movable fit I was trying to achieve.
+
+Instead of assuming a clearance would work, I was able to **design → print → test → adjust → reprint** and use the result to guide future SolidWorks designs.
 
 ## Skills Demonstrated
 
@@ -42,13 +49,14 @@ Instead of assuming a clearance would work, I was able to design a test, print i
 - 3D printing
 - Tolerance and fit testing
 - Physical prototyping
+- Iterative design and testing
 - Design for additive manufacturing
 - Comparing CAD intent with manufactured results
-- Using test results to guide future design decisions
+- Using physical test results to refine a design
 
 ## Project Takeaway
 
-This was a small project, but it was useful because it connected CAD design directly to manufacturing. It showed me how small dimensional changes in SolidWorks can affect the real fit of 3D-printed components and why physical testing is important when designing parts that need to fit together.
+This was a small project, but it was useful because it connected CAD design directly to manufacturing. Finding the final **0.07 mm clearance** required me to compare multiple printed fits and refine the design based on the physical results. It showed me how small dimensional changes in SolidWorks can affect real 3D-printed components and why testing and iteration are important when designing parts that need to fit together.
 
 ## Project Files
 
