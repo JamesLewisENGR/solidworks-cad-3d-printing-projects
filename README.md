@@ -39,6 +39,8 @@ My next step is to 3D print the components, test the fit and movement, revise di
 
 🎥 **[Watch the Robotic Gripper Build Overview](https://www.youtube.com/watch?v=37y65f_CWxo)**
 
+🎥 **[Watch the CAD-to-Print Prototype Review: Failures & Lessons Learned](https://www.youtube.com/watch?v=-1LgOPsUv-U)**
+
 **[View the Full Robotic Gripper Project](robotic-gripper/README.md)**
 
 ### SolidWorks to 3D Print — Tolerance & Fit Testing
