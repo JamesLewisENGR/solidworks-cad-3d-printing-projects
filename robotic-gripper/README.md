@@ -14,6 +14,8 @@ The overall CAD design is complete, and I am currently moving into the 3D-printi
 
 🎥 **[Watch the Robotic Gripper Build Overview on YouTube](https://www.youtube.com/watch?v=37y65f_CWxo)**
 
+🎥 **[Watch the CAD-to-Print Prototype Review: Failures & Lessons Learned](https://www.youtube.com/watch?v=-1LgOPsUv-U)**
+
 ## CAD Design
 
 I modeled the gripper components in SolidWorks and assembled them to create the overall mechanism. While working on the CAD design, I had to think about how the individual parts connect, how the mechanism moves, and how the dimensions of the components will affect the physical assembly.
@@ -28,7 +30,7 @@ The project is continuing beyond those references. I am creating and testing my 
 
 ## 3D Printing & Physical Testing
 
-The next stage is to 3D print the components and assemble the physical gripper. Once I have the printed parts in front of me, I will be able to evaluate things that are harder to judge from CAD alone, including fit, clearances, movement, alignment, and how well the components work together.
+I 3D printed the initial components and reviewed how the CAD design translated into the physical prototype, including fit issues, print results, and parts of the design that did not work as intended. Once I have the printed parts in front of me, I will be able to evaluate things that are harder to judge from CAD alone, including fit, clearances, movement, alignment, and how well the components work together.
 
 If a dimension or fit does not work the way I expected, I plan to go back into SolidWorks, change the design, reprint the part, and test it again.
 
@@ -68,9 +70,9 @@ As I continue the project, I plan to:
 - [x] SolidWorks assembly created
 - [x] SolidWorks CAD files uploaded
 - [x] CAD/build overview video recorded
-- [ ] Components 3D printed
-- [ ] Physical gripper assembled
-- [ ] Fit and movement tested
+- [x] Components 3D printed
+- [x] Initial physical prototype evaluated
+- [x] CAD-to-print failures and lessons documented
 - [ ] Dimensions revised based on physical testing
 - [ ] Additional features added
 - [ ] Final prototype completed
